@@ -1,100 +1,116 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Dharmendra%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=60&descSize=18"/>
+<!-- HERO -->
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050A0F,45:0D1B2A,100:123B5D&text=DHARMENDRA%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Dharmendra+Kumar;Data+Science+%26+Applications+%7C+IIT+Madras;AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Data-Driven+%26+Intelligent+Systems"/>
+<br>
 
-<br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Data+Science+%26+Applications+%40+IIT+Madras;Building+Data-Driven+%26+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;Turning+Data+into+Intelligence+%F0%9F%A7%A0"/>
 
-<img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br><br>
 
-<br/>
-
-<a href="https://dharmendra-07.github.io/Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://dharmendra-07.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1GoD7giQ88i_w1tg5fpdbi7tiAZkHdpa7/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/📄%20Resume-Download%20%2F%20View-success?style=for-the-badge"/>
+<a href="https://drive.google.com/file/d/1GoD7giQ88i_w1tg5fpdbi7tiAZkHdpa7/view?usp=sharing">
+<img src="https://img.shields.io/badge/📄%20RESUME-FFFFFF?style=for-the-badge&logo=googledrive&logoColor=black"/>
 </a>
 
-<a href="mailto:23f2000072@ds.study.iitm.ac.in">
-<img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/dharmendra-iitm/">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# `01` · ABOUT ME
 
-🎓 **Data Science & Applications Undergraduate at IIT Madras**
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  Hi 👋 I'm Dharmendra Kumar                                │
+│                                                             │
+│  🎓 Data Science & Applications — IIT Madras               │
+│                                                             │
+│  I enjoy combining mathematics, statistics and              │
+│  programming to build practical data-driven systems.       │
+│                                                             │
+│  My interests span Machine Learning, Artificial             │
+│  Intelligence, Deep Learning and Software Engineering.      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-I enjoy turning **data, mathematics, and code into practical intelligent systems**.
-
-My primary interests include:
+### What I Work With
 
 * 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Deep Learning & Generative AI
 * 📊 Data Science & Statistical Modeling
+* 🧠 Deep Learning & Generative AI
 * 🐍 Python Development
 * 🌐 Full-Stack Web Applications
-* ⚙️ Backend & API Development
+* ⚙️ Backend & REST API Development
 * ☁️ Cloud & Scalable Systems
-
-### 🔭 Currently Working On
-
-* Machine Learning and Deep Learning projects
-* AI-powered applications
-* Data analysis and visualization
-* Full-stack software projects
-* Strengthening foundations in Mathematics, Statistics and Algorithms
-
-### 🎯 My Focus
-
-> **Build → Learn → Experiment → Improve → Repeat**
 
 ---
 
-# 🧠 Areas of Interest
+# `02` · CURRENTLY EXPLORING
 
 <div align="center">
 
-| 🤖 Artificial Intelligence |   📊 Data Science   | 💻 Software Engineering |
-| :------------------------: | :-----------------: | :---------------------: |
-|      Machine Learning      |    Data Analysis    |          Python         |
-|        Deep Learning       |      Statistics     |           Java          |
-|        Generative AI       |    Visualization    |        JavaScript       |
-|      LLM Applications      | Predictive Modeling |        REST APIs        |
+|       🧠 AI      |       📊 DATA       |  ⚙️ ENGINEERING |
+| :--------------: | :-----------------: | :-------------: |
+| Machine Learning |      Statistics     |      Python     |
+|   Deep Learning  |    Data Analysis    |    REST APIs    |
+|   Generative AI  |    Visualization    | Backend Systems |
+| LLM Applications | Predictive Modeling |      Cloud      |
 
 </div>
 
+<br>
+
+```text
+Machine Learning
+       ↓
+Deep Learning
+       ↓
+Generative AI
+       ↓
+LLM Applications
+       ↓
+Production AI Systems
+```
+
 ---
 
-# 🛠️ Tech Stack
+# `03` · TECH STACK
 
-### Programming Languages
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c"/>
 </p>
 
-### Data Science & Machine Learning
+### AI / Machine Learning / Data Science
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,opencv"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikit-learn,opencv"/>
 </p>
 
-### Web & Backend Development
+### Web & Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css,tailwind,bootstrap"/>
 </p>
 
-### Databases & Infrastructure
+### Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis"/>
@@ -103,40 +119,46 @@ My primary interests include:
 ### Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# `04` · FEATURED PROJECTS
 
 <div align="center">
 
 <a href="https://github.com/Dharmendra-07">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dharmendra-07&repo=Placement-Portal&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dharmendra-07&repo=Placement-Portal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF"/>
 </a>
 
 <a href="https://github.com/Dharmendra-07">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dharmendra-07&repo=TrekManage&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dharmendra-07&repo=TrekManage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF"/>
 </a>
 
 </div>
 
-> 💡 More projects, experiments and implementations are available across my GitHub repositories.
+<br>
+
+<div align="center">
+
+### 🚀 Building systems that solve real problems.
+
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+# `05` · GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -144,31 +166,19 @@ My primary interests include:
 
 </div>
 
-<br/>
+---
+
+# `06` · CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dharmendra-07&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dharmendra-07&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dharmendra-07&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&bg_color=0D1117&color=FFFFFF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&radius=12" width="100%"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&theme=tokyo-night&hide_border=true&radius=12&area=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
+# `07` · GITHUB ACHIEVEMENTS
 
 <div align="center">
 
@@ -178,74 +188,89 @@ My primary interests include:
 
 ---
 
-# 📚 Learning Journey
-
-```text
-Mathematics
-     ↓
-Statistics & Probability
-     ↓
-Data Science
-     ↓
-Machine Learning
-     ↓
-Deep Learning
-     ↓
-Generative AI
-     ↓
-Production AI Systems
-```
-
-I believe strong fundamentals in **mathematics, statistics, algorithms and programming** are the foundation for building reliable AI systems.
-
----
-
-# 🌐 Connect With Me
+# `08` · LEARNING PHILOSOPHY
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dharmendra-iitm/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>&nbsp;&nbsp;
+```text
+        MATHEMATICS
+             │
+             ▼
+       STATISTICS
+             │
+             ▼
+       DATA SCIENCE
+             │
+             ▼
+     MACHINE LEARNING
+             │
+             ▼
+      DEEP LEARNING
+             │
+             ▼
+      GENERATIVE AI
+             │
+             ▼
+     INTELLIGENT SYSTEMS
+```
 
-<a href="https://github.com/Dharmendra-07" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>&nbsp;&nbsp;
+</div>
 
-<a href="https://leetcode.com/u/Dharmendra-07/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="48"/>
-</a>&nbsp;&nbsp;
+> **Strong fundamentals → Better models → Better systems**
 
-<a href="https://www.geeksforgeeks.org/user/dharmendra07/" target="_blank">
-<img src="https://cdn.simpleicons.org/geeksforgeeks" height="48"/>
-</a>&nbsp;&nbsp;
+---
 
-<a href="https://www.instagram.com/dharmendra.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+# `09` · CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Dharmendra-07">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/dharmendra-iitm/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Dharmendra-07/">
+<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/user/dharmendra07/">
+<img src="https://cdn.simpleicons.org/geeksforgeeks" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/dharmendra.io/">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💬 Let's build something intelligent.
+
+<a href="mailto:23f2000072@ds.study.iitm.ac.in">
+<img src="https://img.shields.io/badge/CONTACT%20ME-00F5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-# 💡 What I Believe
-
 <div align="center">
 
-### **"Data tells the story.
+### ⚡ `DATA → KNOWLEDGE → INTELLIGENCE`
 
-### Mathematics gives it structure.
+<br>
 
-### AI turns it into intelligence."**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0F,45:0D1B2A,100:123B5D&height=130&section=footer"/>
 
 </div>
 
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-</div>
