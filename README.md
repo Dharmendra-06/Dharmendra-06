@@ -127,16 +127,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&bg_color=0D1117&color=FFFFFF&line=00F5FF&point=00F5FF&area=true&hide_border=true&radius=12" width="100%" />
-
-</div>
-
----
-
 # 🏆 Achievements & Interests
 
 ✨ AI & Machine Learning Projects
