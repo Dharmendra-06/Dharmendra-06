@@ -1,360 +1,168 @@
 <div align="center">
 
-# DHARMENDRA KUMAR
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Dharmendra%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=58&descSize=18" />
 
-### Data Science · Artificial Intelligence · Machine Learning · Software Engineering
+<br/>
 
-**Data Science & Applications @ IIT Madras**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Dharmendra+Kumar;Data+Science+Undergraduate+at+IIT+Madras;AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Intelligent+and+Scalable+Systems" />
 
-<br>
+<br/><br/>
 
-<a href="https://dharmendra-07.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F5FF"/>
+<img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://dharmendra-07.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌍%20Portfolio-Visit%20Now-00C2FF?style=for-the-badge"/>
 </a>
-&nbsp;
-<a href="https://drive.google.com/file/d/1GoD7giQ88i_w1tg5fpdbi7tiAZkHdpa7/view?usp=sharing">
-<img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledrive&logoColor=00F5FF"/>
+
+<a href="https://drive.google.com/file/d/1GoD7giQ88i_w1tg5fpdbi7tiAZkHdpa7/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-success?style=for-the-badge"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/dharmendra-iitm/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-</a>
-&nbsp;
+
 <a href="mailto:23f2000072@ds.study.iitm.ac.in">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/📫%20Email-Contact%20Me-red?style=for-the-badge"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=PROFILE%20VIEWS&style=flat-square&color=00F5FF"/>
 
 </div>
 
 ---
 
-## About
+# 🚀 About Me
 
-I am a **Data Science & Applications student at IIT Madras** with an interest in building intelligent, data-driven software systems.
+🎓 Undergraduate Student in **Data Science & Applications** at **IIT Madras**
 
-My work sits at the intersection of:
-
-**Mathematics → Statistics → Data Science → Machine Learning → Software Engineering**
-
-I enjoy taking a problem from **data and experimentation to a working application**.
-
-### Areas of interest
+💡 Passionate about:
 
 * Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Generative AI & LLM applications
-* Data Science & Statistical Modeling
-* Backend Engineering
-* Full-Stack Development
-* Scalable Software Systems
+* Machine Learning & Deep Learning
+* Data Science & Analytics
+* Full Stack Development
+* Scalable Backend Systems
+
+🌱 Currently Exploring:
+
+* Large Language Models (LLMs)
+* Cloud Computing
+* AI-powered Applications
+* Advanced Machine Learning Systems
+
+🎯 Goal:
+
+> To become a world-class Data Scientist & AI Engineer
 
 ---
 
-## What I'm Building
+# 🌐 Connect With Me
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  AI / ML                                                   │
-│  ├── Machine Learning                                      │
-│  ├── Deep Learning                                         │
-│  ├── Generative AI                                         │
-│  └── LLM Applications                                      │
-│                                                             │
-│  DATA                                                       │
-│  ├── Statistical Analysis                                   │
-│  ├── Data Visualization                                     │
-│  ├── Predictive Modeling                                    │
-│  └── Feature Engineering                                    │
-│                                                             │
-│  SOFTWARE                                                    │
-│  ├── REST APIs                                               │
-│  ├── Backend Systems                                         │
-│  ├── Full-Stack Applications                                 │
-│  └── Database-driven Systems                                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/dharmendra-iitm/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
-## Technical Stack
+<a href="https://github.com/Dharmendra-07" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
-### Languages
+<a href="https://leetcode.com/u/Dharmendra-07/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+</a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
-</p>
+<a href="https://www.geeksforgeeks.org/user/dharmendra07/" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks" height="50"/>
+</a>
 
-### Data Science & AI
+<a href="https://www.instagram.com/dharmendra.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikit-learn,opencv" />
-</p>
-
-### Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css,tailwind,bootstrap" />
-</p>
-
-### Databases & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis,docker" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
-# Selected Projects
-
-> A selection of systems and applications I've worked on.
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## Placement Portal
-
-A campus recruitment management platform for managing:
-
-* Students
-* Companies
-* Placement drives
-* Applications
-* Placements
-* Notifications
-
-**Architecture**
-
-`Flask API` · `Vue.js` · `SQLite` · `Redis` · `Celery`
-
-<br>
-
-<a href="https://github.com/Dharmendra-07">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## TrekManage
-
-A role-based trekking management platform designed around:
-
-* Admin management
-* Trek staff workflows
-* Trekker accounts
-* Trek management
-* Background jobs
-* Notifications
-* Reporting
-
-**Architecture**
-
-`Flask` · `Vue.js` · `SQLite` · `Redis` · `Celery`
-
-<br>
-
-<a href="https://github.com/Dharmendra-07">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
+# 💻 Languages and Tools
 
 <div align="center">
 
-<a href="https://github.com/Dharmendra-07?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,nodejs,express,mongodb,postgresql,html,css,tailwind,bootstrap,tensorflow,pytorch,git,github,vscode,linux" />
+
+<br/><br/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,opencv,sklearn" />
 
 </div>
 
 ---
 
-# Engineering Focus
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| Area            | Focus                                            |
-| :-------------- | :----------------------------------------------- |
-| **AI / ML**     | Machine Learning · Deep Learning · Generative AI |
-| **Data**        | Statistics · Data Analysis · Visualization       |
-| **Backend**     | Flask · REST APIs · Redis · Celery               |
-| **Frontend**    | React · Vue · JavaScript                         |
-| **Databases**   | PostgreSQL · SQLite · MongoDB                    |
-| **Engineering** | Git · Linux · Docker · APIs                      |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Dharmendra-07&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmendra-07&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dharmendra-07&theme=tokyonight" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dharmendra-07&theme=tokyonight" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dharmendra-07&theme=tokyonight" />
 
 </div>
 
 ---
 
-# GitHub
+# 📈 Contribution Graph
 
 <div align="center">
 
-<a href="https://github.com/Dharmendra-07">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&rank_icon=github" />
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00F5FF/Dharmendra-07" width="100%" alt="GitHub contribution graph"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Dharmendra-07?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
-
-<a href="https://github.com/Dharmendra-07">
-<img src="https://img.shields.io/github/followers/Dharmendra-07?style=for-the-badge&label=Followers&color=0D1117&logo=github&logoColor=00F5FF"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&bg_color=0D1117&color=FFFFFF&line=00F5FF&point=00F5FF&area=true&hide_border=true&radius=12" width="100%" />
 
 </div>
 
 ---
 
-# Learning Path
-
-```text
-                    ┌──────────────────┐
-                    │   MATHEMATICS    │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │    STATISTICS    │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │  DATA SCIENCE    │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ MACHINE LEARNING │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │  DEEP LEARNING   │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │   GENERATIVE AI  │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ INTELLIGENT APPS │
-                    └──────────────────┘
-```
-
-### Currently learning
-
-* Advanced Machine Learning
-* Deep Learning
-* Generative AI
-* Large Language Models
-* Data Engineering
-* Cloud & Deployment
-* System Design
-
----
-
-# Beyond Code
-
-I believe good engineering is more than writing code.
-
-### I focus on
-
-**Understand the problem → Build the right solution → Measure → Improve**
-
-I'm particularly interested in projects where **mathematics, data and software engineering come together**.
-
----
-
-# Connect
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<a href="https://github.com/Dharmendra-07">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/dharmendra-iitm/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Dharmendra-07/">
-<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.geeksforgeeks.org/user/dharmendra07/">
-<img src="https://cdn.simpleicons.org/geeksforgeeks" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/dharmendra.io/">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="mailto:23f2000072@ds.study.iitm.ac.in">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-00F5FF?style=for-the-badge&logo=gmail&logoColor=000000"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Dharmendra-07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
 ---
 
+# 🏆 Achievements & Interests
+
+✨ AI & Machine Learning Projects
+✨ Data Analytics & Visualization
+✨ Full Stack Web Applications
+✨ Scalable Backend Development
+✨ Open Source & Continuous Learning
+
+---
+
 <div align="center">
 
-### Building with data. Learning with curiosity. Engineering with purpose.
+## ⚡ “Transforming Data into Intelligent Solutions”
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0F,45:0D1B2A,100:123B5D&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
-
