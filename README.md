@@ -6,11 +6,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Dharmendra+Kumar;Data+Science+Undergraduate+at+IIT+Madras;AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Intelligent+and+Scalable+Systems" />
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
 <a href="https://dharmendra-07.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/🌍%20Portfolio-Visit%20Now-00C2FF?style=for-the-badge"/>
