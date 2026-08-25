@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Dharmendra+Kumar;Data+Science+%26+Applications+%7C+IIT+Madras;AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Data-Driven+%26+Intelligent+Systems"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
